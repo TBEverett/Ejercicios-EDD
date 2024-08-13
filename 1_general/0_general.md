@@ -1,6 +1,6 @@
 ## Programación General en C++
 
-1. Programar una función que retorne verdadero cuando el string ingresado sea un palíndromo, y falso cuando no lo es.
+1. Programar una función que retorne verdadero cuando el string ingresado sea un palíndromo, y falso cuando no.
 
 2. Numeros primos:
    1. Escribir una función que determine si un número es primo o no.
@@ -9,9 +9,9 @@
 
 3. Structs:
    1. Definir un struct para representar números complejos.
-   2. Escribir un programa que reciba información por entrada estándar para construir un numero complejo y lo imprima.
+   2. Escribir una función para printear un numero complejo.
    3. Escribir una función para multiplicar dos números complejos. 
-
+   
 4. Recursion:
    1. Escribir una función recursiva que acepte un entero $n$ y retorne verdadero si es una potencia de dos.
    2. Escribir una función recursiva que calcule el n-ésimo término de la secuencia de Fibonacci, definida como:

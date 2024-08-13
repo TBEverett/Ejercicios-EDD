@@ -1,3 +1,0 @@
-## Colas
-
-1. Hay $n$ personas haciendo cola para comprar entradas para la pelicula de Bob Esponja. $entradas$ es un arreglo de largo $n$ donde $entradas[i]$ es la cantidad de entradas que quiere comprar la i-ésima persona. Cada persona tarda *1 segundo* en comprar una entrada, y solo puede comprar una entrada a la vez. Después de comprar una entrada, la persona vuelve instantáneamente al final de la cola. Escribir una función que retorne la cantidad de segundos que le tomará a la $k-ésima$ persona para comprar todos los boletos que quiere
